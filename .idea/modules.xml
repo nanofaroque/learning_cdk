@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-cdk/hello-cdk.iml" filepath="$PROJECT_DIR$/hello-cdk/hello-cdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_cdk.iml" filepath="$PROJECT_DIR$/.idea/learning_cdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyEcsConstruct/my_ecs_construct.iml" filepath="$PROJECT_DIR$/MyEcsConstruct/my_ecs_construct.iml" />
+    </modules>
+  </component>
+</project>
